@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Shreyashi Sanyal, Lim Hui Jie",
+            "title": "China stocks hit over three-month highs as Beijing targets 5% GDP growth; Hong Kong slides 2.5% - CNBC",
+            "description": "China has projected a GDP growth target of \"around 5%\" for 2024, and expects the inflation rate in the country to increase to \"around 3%.\"",
+            "url": "https://www.cnbc.com/2024/03/05/asia-markets-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107382153-1709596760557-gettyimages-2058030973-30.jpeg?v=1709598025&w=1920&h=1080",
+            "publishedAt": "2024-03-05T07:42:00Z",
+            "content": "Prior instances when U.S. stocks have risen this relentlessly (since World War II, anyway) have only come in the wake of either a recession or a \"bubble scenario\" and the current market has elements … [+1251 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "As Gaza's hunger crisis worsens, emaciated children seen at hospitals - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/gazas-hunger-crisis-worsens-emaciated-children-seen-hospitals-2024-03-04/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-05T06:29:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Chris Gardner",
+            "title": "Oscars: Complete Guide to Red Carpet Events, Parties (Updating) - Hollywood Reporter",
+            "description": "From Chanel and Giorgio Armani to Vanity Fair and Elton John, find out where the A-list stars will be partying this week in the run-up to Sunday's Academy Awards hosted by Jimmy Kimmel.",
+            "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/2024-oscars-parties-events-guide-roundup-1235840865/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/03/GettyImages-1473170955-H-2024.jpg?w=1024",
+            "publishedAt": "2024-03-05T05:16:20Z",
+            "content": "Get ready to roll out miles and miles of red carpet — it’s time to party this week in Los Angeles in celebration of the 96th annual Academy Awards. The Hollywood Reporter has gathered intel on all th… [+21760 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "China Defense Spending to Climb 7.2% as Xi Pursues Buildup - Bloomberg",
+            "description": "China’s defense spending will grow by 7.2% in 2024 — the most in five years — an increase that comes amid signs corruption is undermining a military revamp.",
+            "url": "https://www.bloomberg.com/news/articles/2024-03-05/china-defense-spending-to-climb-7-2-as-xi-pursues-buildup",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieMn_GWGbD8U/v1/1200x800.jpg",
+            "publishedAt": "2024-03-05T04:59:00Z",
+            "content": "Chinas defense spending will grow by 7.2% in 2024 the most in five years an increase that comes amid signs corruption is undermining a military revamp.\r\nMilitary expenditure by the central government… [+349 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "UN: 'Convincing information' sexual violence committed against hostages in Gaza - BBC.com",
+            "description": "The UN also found \"reasonable grounds to believe\" rapes took place during Hamas's 7 October attack.",
+            "url": "https://www.bbc.com/news/world-middle-east-68474899",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13060/production/_132702977_mediaitem132702973.jpg",
+            "publishedAt": "2024-03-05T04:38:29Z",
+            "content": "The Nova festival was one of the sites of alleged sexual violence on 7 October\r\nA UN team says there is \"convincing information\" that hostages held in Gaza have been subjected to sexual violence incl… [+4687 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "EVENS SANON, PIERRE-RICHARD LUXAMA",
+            "title": "Gangs in Haiti try to seize control of main airport in newest attack on key government sites - The Associated Press",
+            "description": "Heavily armed gangs have tried to seize control of Haiti’s main international airport as they exchanged gunfire with police and soldiers trying to repel them. The Toussaint Louverture International Airport was closed when the attack occurred Monday, with no p…",
+            "url": "https://apnews.com/article/haiti-violence-prison-break-curfew-105ca137aa337b9e6681cf87add9a5c1",
+            "urlToImage": "https://dims.apnews.com/dims4/default/fe1292e/2147483647/strip/true/crop/5760x3240+0+300/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9c%2Fa6%2Fd9f5de25d9678fca1fa808dee9a5%2Fcb6f65f7b458476fb5fcedb3632ac651",
+            "publishedAt": "2024-03-05T04:27:00Z",
+            "content": "PORT-AU-PRINCE, Haiti (AP) Heavily armed gangs tried to seize control of Haitis main international airport on Monday, exchanging gunfire with police and soldiers in the latest attack on key governmen… [+6422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Bucks Go On DOMINANT 13-0 4th Quarter Run! UNCUT 🔥| March 4, 2024 - NBA",
+            "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.Download now: https://link.n...",
+            "url": "https://www.youtube.com/watch?v=qci4fc5m4ys",
+            "urlToImage": "https://i.ytimg.com/vi/qci4fc5m4ys/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgZShAMA8=&rs=AOn4CLBDMEu8ceJxgPtCireoZC-Nhe81JA",
+            "publishedAt": "2024-03-05T04:09:54Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Donald Trump wins North Dakota caucuses, CBS News projects - CBS News",
+            "description": "The win comes one day after Nikki Haley won the Washington, D.C., Republican presidential primary, her first victory in 2024.",
+            "url": "https://www.cbsnews.com/news/donald-trump-wins-north-dakota-caucuses/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/05/efbecc2e-4b81-417b-907e-d36e62582744/thumbnail/1200x630/b41df4e21485245ddc8fb561207df861/gettyimages-1988746737.jpg?v=bc5d8c67ac570dce258200b20849fb01",
+            "publishedAt": "2024-03-05T03:14:00Z",
+            "content": "Former President Donald Trump has won the North Dakota Republican presidential caucuses, CBS News projects. \r\nThe win comes one day after former U.S. Ambassador to the U.N. Nikki Haley secured her fi… [+3225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "POLITICO.eu"
+            },
+            "author": "Matthew Karnitschnig",
+            "title": "Putin's masterful spy op leaves Scholz in the cold - POLITICO Europe",
+            "description": "Moscow’s espionage coup has divided Western allies, discredited Scholz and hampered Kyiv’s push for weapons.",
+            "url": "https://www.politico.eu/article/vladimir-putin-olaf-scholz-russia-germany-taurus-missile-ukraine-war/",
+            "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/03/04/GettyImages-154746006.jpg",
+            "publishedAt": "2024-03-05T03:00:00Z",
+            "content": "For Putin, who after decades as Russias leader remains a spy at heart, there is no greater joy than outfoxing Russias adversaries in the dark arts (especially Germany, where he spent part of his KGB … [+1628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Katyanna Quach",
+            "title": "Twitter's ex-CEO, CFO, and managers sue Elon Musk for $128M - The Register",
+            "description": "Musk playbook described as 'Keep money he owes other people, and force them to sue him'",
+            "url": "https://www.theregister.com/2024/03/05/twitter_management_sue_musk/",
+            "urlToImage": "https://regmedia.co.uk/2024/03/05/musk_shutterstock.jpg",
+            "publishedAt": "2024-03-05T02:33:00Z",
+            "content": "Four top former executives who were let go after Elon Musk acquired the social media platform have sued the tech billionaire for $128 million in severance payments.\r\nMusk's $44 billion Twitter acquis… [+3546 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Jason Kelce's NFL Retirement: His & Travis' Subtle Nod to Taylor Swift - Entertainment Tonight",
+            "description": "Jason Kelce emotionally announces he's retiring from the NFL after 13 years with the Philadelphia Eagles. During his speech, the former pro subtly references...",
+            "url": "https://www.youtube.com/watch?v=Py99Ssy3EeM",
+            "urlToImage": "https://i.ytimg.com/vi/Py99Ssy3EeM/maxresdefault.jpg",
+            "publishedAt": "2024-03-05T02:30:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Screen Rant"
+            },
+            "author": "Maxance Vincent",
+            "title": "Dune 2's Opening Weekend Box Office Numbers Officially Revealed & They Rival One Of 2023's Highest Grossing Movies - Screen Rant",
+            "description": "The official opening weekend box office numbers of Denis Villeneuve's Dune: Part Two are in, and they rival one of 2023's biggest movies.",
+            "url": "https://screenrant.com/dune-2-opening-weekend-box-office-oppenheimer-comparison/",
+            "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/timothee-chalamet-as-paul-dressed-in-fremen-garb-in-dune-part-2.jpg",
+            "publishedAt": "2024-03-05T01:24:00Z",
+            "content": "Summary\r\n<ul><li>Dune: Part Two\r\n had a historic opening weekend, earning $182.5 million globally, surpassing other blockbusters like \r\nOppenheimer\r\n. </li><li> Director Denis Villeneuve's sequel use… [+2609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FOX 31 Denver"
+            },
+            "author": "Kim Posey",
+            "title": "Colon cancer is now a top cancer killer for young people: Colorado doctors - FOX 31 Denver",
+            "description": "DENVER (KDVR) — Surprising new data shows that of all the cancer deaths in people under age 55, colorectal cancer is now a top killer. Doctors say while the number of older people being diagnosed is dropping, the number of young people being diagnosed is incr…",
+            "url": "https://kdvr.com/news/health/colon-cancer-is-now-a-top-cancer-killer-for-young-people-colorado-doctors/",
+            "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2024/03/AP21137749924327.jpg?w=1280",
+            "publishedAt": "2024-03-05T01:20:04Z",
+            "content": "DENVER (KDVR) Surprising new data shows that of all the cancer deaths in people under age 55, colorectal cancer is now a top killer.\r\nDoctors say while the number of older people being diagnosed is d… [+1657 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brianna Herlihy",
+            "title": "Speaker slams House Dems after report they’ll act after SCOTUS allows Trump to stay on CO ballot: 'get a grip' - Fox News",
+            "description": "House Speaker Johnson slammed reports that Democrats are ginning up legislation in reaction to the Supreme Court’s decision Monday to keep Trump off the 2024 ballot.",
+            "url": "https://www.foxnews.com/politics/speaker-slams-house-dems-after-report-theyll-act-after-scotus-allows-trump-stay-co-ballot-get-a-grip",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/Safeimagekit-resized-img-21.jpeg",
+            "publishedAt": "2024-03-05T01:18:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PBS"
+            },
+            "author": "PBS NewsHour",
+            "title": "News Wrap: Winter storm dumps mountains of snow in Sierra Nevada - PBS NewsHour",
+            "description": "In our news wrap Monday, a new round of snow is blanketing the mountains of Northern California as residents struggle to dig out from a days-long blizzard, Jack Teixeira pleaded guilty to leaking highly classified military documents online and the State Depar…",
+            "url": "https://www.pbs.org/newshour/show/news-wrap-winter-storm-dumps-mountains-of-snow-in-sierra-nevada",
+            "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2024/03/newswrap-3-1024x683.jpg",
+            "publishedAt": "2024-03-05T01:16:23Z",
+            "content": "Amna Nawaz:\r\nThe Texas fires are now blamed for two deaths. Officials say the fires also destroyed hundreds of homes and killed thousands of cattle.\r\nA Massachusetts Air National Guardsman, Jack Teix… [+636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Denver Post"
+            },
+            "author": "Troy Renck",
+            "title": "Renck: Russell Wilson went from “Let’s Ride” to “Last Ride” with Broncos, revealing dangers of desperation - The Denver Post",
+            "description": "From “Let’s ride” to “last ride” in two years.",
+            "url": "https://www.denverpost.com/2024/03/04/russell-wilson-broncos-lets-ride-desperation-dangers/",
+            "urlToImage": "https://www.denverpost.com/wp-content/uploads/2023/10/TDP-L-Broncos-Jets-RJS-182017.jpg?w=1024&h=712",
+            "publishedAt": "2024-03-05T01:06:06Z",
+            "content": "From “Lets Ride” to “Last Ride” in two years.\r\nBroncos coach Sean Payton filed for divorce from quarterback Russell Wilson on Monday. The only thing to figure out now is who gets custody of Thunder.\r… [+6397 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Andrew Peters",
+            "title": "Schefter: 2024 NFL Draft Could Have 'Up to 6 QBs' in Round 1; Bo Nix Has 'Huge' Fans - Bleacher Report",
+            "description": "ESPN's Adam Schefter believes this year's draft could have a quarterback-heavy first round. Making an appearance on The Pat McAfee Show on Monday, Schefter…",
+            "url": "https://bleacherreport.com/articles/10111719-schefter-2024-nfl-draft-could-have-up-to-6-qbs-in-round-1-bo-nix-has-huge-fans",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1709598995/goslzw84yzu4du2ozsza.jpg",
+            "publishedAt": "2024-03-05T01:02:30Z",
+            "content": "Stacy Revere/Getty Images\r\nESPN's Adam Schefter believes this year's draft could have a quarterback-heavy first round.\r\nMaking an appearance on The Pat McAfee Show on Monday, Schefter explained that … [+2274 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "Staff",
+            "title": "Cause of long COVID pinpointed as iron deficiency, scientists say - Washington Times",
+            "description": "Researchers have pinpointed iron deficiencies as a key factor in prolonged recovery from COVID-19, commonly referred to as long COVID.",
+            "url": "https://www.washingtontimes.com/news/2024/mar/4/cause-long-covid-pinpointed-iron-deficiency-scient/",
+            "urlToImage": "https://twt-thumbs.washtimes.com/media/image/2023/12/08/Chronic_Fatigue_Syndrome_07604_c0-225-5389-3368_s1200x700.jpg?6289b46267d6e2ae9609b40fa01046636564f51f",
+            "publishedAt": "2024-03-05T00:34:50Z",
+            "content": null
+        }
+    ]
+}
