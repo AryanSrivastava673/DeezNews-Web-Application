@@ -13,6 +13,9 @@ import News from './components/News';
 
 export default class App extends Component {
 
+  apiKey=process.env.REACT_APP_NEWS_API
+  //apiKey="7054bd64396e4280880849c02bc2d01a"
+
   state={
     progress:0
   }
@@ -34,17 +37,17 @@ export default class App extends Component {
         progress={this.state.progress}
       />
         <Routes>
-          <Route exact path="/" element={<News setProgress={this.setProgress} key="/" country="in" category="general"/>}/>    
+          <Route exact path="/" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="/" country="in" category="general"/>}/>    
 
-          <Route exact path="/technology" element={<News setProgress={this.setProgress} key="technology" country="in" category="technology"/>}/>
+          <Route exact path="/technology" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="technology" country="in" category="technology"/>}/>
             
-          <Route exact path="/business" element={<News setProgress={this.setProgress} key="business" country="in" category="business"/>}/>
+          <Route exact path="/business" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="business" country="in" category="business"/>}/>
             
-          <Route exact path="/entertainment" element={<News setProgress={this.setProgress} key="entertainment" country="in" category="entertainment"/>}/>
+          <Route exact path="/entertainment" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="entertainment" country="in" category="entertainment"/>}/>
             
-          <Route exact path="/sports" element={<News setProgress={this.setProgress} key="sports" country="in" category="sports"/>}/>
+          <Route exact path="/sports" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="sports" country="in" category="sports"/>}/>
             
-          <Route exact path="/science" element={<News setProgress={this.setProgress} key="science" country="in" category="science"/>}/>
+          <Route exact path="/science" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="science" country="in" category="science"/>}/>
           
         </Routes>
         
