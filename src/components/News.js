@@ -44,7 +44,7 @@ const News=(props)=>{
     }
 
     return (
-      <div className='container my-3'>
+      <div className='container my-5'>
         <h1 className='text-center'>DeezNews - Top Headlines</h1>
         {loading && <div className='text-center'><Spinner/></div>}
         {!loading && <div className='row'>
@@ -59,7 +59,7 @@ const News=(props)=>{
         </div>}
         <div className='container d-flex justify-content-between'>
             <button disabled={page<=1} type="button" className="btn btn-primary" onClick={handlePrevClick}>&larr; Previous</button>
-            <button disabled={page+1>Math.ceil(totalResults/20)} type="button" class="btn btn-primary" onClick={handleNextClick}>Next &rarr;</button>
+            <button disabled={page+1>Math.ceil(totalResults/20)} type="button" className="btn btn-primary" onClick={handleNextClick}>Next &rarr;</button>
         </div>
         
       </div>
